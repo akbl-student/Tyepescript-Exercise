@@ -1,5 +1,5 @@
 {
-  "name": "5.famous-quote2",
+  "name": "7.namber-eight",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@types/node": "^20.11.25"
   }
 }
